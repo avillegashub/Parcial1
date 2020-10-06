@@ -23,25 +23,25 @@ namespace Entidades
 
         public static void HardCodeProductos()
         {
-            Producto p1 = new Producto(10001, "Almohada", 3000, 11, @"C:\Users\Bitter\Desktop\1erParcial.Villegas.Alvaro\Comercio\Resources\Imagenes\almohada.png");
-            Producto p2 = new Producto(10002, "Helicoptero Apache", 3200, 22, @"C:\Users\Bitter\Desktop\1erParcial.Villegas.Alvaro\Comercio\Resources\Imagenes\apache.png");
-            Producto p3 = new Producto(10003, "Cama", 10450, 33, @"C:\Users\Bitter\Desktop\1erParcial.Villegas.Alvaro\Comercio\Resources\Imagenes\cama.png");
-            Producto p4 = new Producto(10004, "Camisa Infant Annilhilator", 11450, 44, @"C:\Users\Bitter\Desktop\1erParcial.Villegas.Alvaro\Comercio\Resources\Imagenes\camisaai.png");
-            Producto p5 = new Producto(10005, "Camisa SexBob-Omb", 11460, 55, @"C:\Users\Bitter\Desktop\1erParcial.Villegas.Alvaro\Comercio\Resources\Imagenes\camisasbo.png");
-            Producto p6 = new Producto(10006, "Carrito RC", 5460, 66, @"C:\Users\Bitter\Desktop\1erParcial.Villegas.Alvaro\Comercio\Resources\Imagenes\carrito.png");
-            Producto p7 = new Producto(10007, "Cerealitas", 300, 77, @"C:\Users\Bitter\Desktop\1erParcial.Villegas.Alvaro\Comercio\Resources\Imagenes\cerealitas.png");
-            Producto p8 = new Producto(10008, "Cobija", 5000, 88, @"C:\Users\Bitter\Desktop\1erParcial.Villegas.Alvaro\Comercio\Resources\Imagenes\cobija.png");
-            Producto p9 = new Producto(10009, "DuffBeer", 100, 99, @"C:\Users\Bitter\Desktop\1erParcial.Villegas.Alvaro\Comercio\Resources\Imagenes\duffbeer.png");
-            Producto p10 = new Producto(10010, "KramerArt", 500000, 1, @"C:\Users\Bitter\Desktop\1erParcial.Villegas.Alvaro\Comercio\Resources\Imagenes\kramer.png");
-            Producto p11 = new Producto(10011, "MAGA Hat", 10, 100, @"C:\Users\Bitter\Desktop\1erParcial.Villegas.Alvaro\Comercio\Resources\Imagenes\maga.png");
-            Producto p12 = new Producto(10012, "Leche", 200, 101, @"C:\Users\Bitter\Desktop\1erParcial.Villegas.Alvaro\Comercio\Resources\Imagenes\milk.png");
-            Producto p13 = new Producto(10013, "Perro", 50000, 5, @"C:\Users\Bitter\Desktop\1erParcial.Villegas.Alvaro\Comercio\Resources\Imagenes\perrito.png");
-            Producto p14 = new Producto(10014, "Pizza", 600, 123, @"C:\Users\Bitter\Desktop\1erParcial.Villegas.Alvaro\Comercio\Resources\Imagenes\pizza.png");
-            Producto p15 = new Producto(10015, "RTX2080", 60000, 5, @"C:\Users\Bitter\Desktop\1erParcial.Villegas.Alvaro\Comercio\Resources\Imagenes\rtx2080.png");
-            Producto p16 = new Producto(10016, "Snickers", 200, 321, @"C:\Users\Bitter\Desktop\1erParcial.Villegas.Alvaro\Comercio\Resources\Imagenes\snickers.png");
-            Producto p17 = new Producto(10017, "TimeMachine", 1000, 1, @"C:\Users\Bitter\Desktop\1erParcial.Villegas.Alvaro\Comercio\Resources\Imagenes\timemachine.png");
-            Producto p18 = new Producto(10018, "WindowsVista", 0, 999, @"C:\Users\Bitter\Desktop\1erParcial.Villegas.Alvaro\Comercio\Resources\Imagenes\windowsvista.png");
-            Producto p19 = new Producto(10019, "Zucaritas", 600, 99, @"C:\Users\Bitter\Desktop\1erParcial.Villegas.Alvaro\Comercio\Resources\Imagenes\zucaritas.png");
+            Producto p1  = new Producto(10001, "Almohada",           3000,   11,  @"C:\Users\Bitter\Desktop\1erParcial.Villegas.Alvaro\Comercio\Resources\Imagenes\almohada.png");
+            Producto p2  = new Producto(10002, "Apache",             3200,   22,  @"C:\Users\Bitter\Desktop\1erParcial.Villegas.Alvaro\Comercio\Resources\Imagenes\apache.png");
+            Producto p3  = new Producto(10003, "Cama",               10450,  33,  @"C:\Users\Bitter\Desktop\1erParcial.Villegas.Alvaro\Comercio\Resources\Imagenes\cama.png");
+            Producto p4  = new Producto(10004, "Camisa IA",          11450,  44,  @"C:\Users\Bitter\Desktop\1erParcial.Villegas.Alvaro\Comercio\Resources\Imagenes\camisaai.png");
+            Producto p5  = new Producto(10005, "Camisa SexBob-Omb",  11460,  55,  @"C:\Users\Bitter\Desktop\1erParcial.Villegas.Alvaro\Comercio\Resources\Imagenes\camisasbo.png");
+            Producto p6  = new Producto(10006, "Carrito RC",         5460,   66,  @"C:\Users\Bitter\Desktop\1erParcial.Villegas.Alvaro\Comercio\Resources\Imagenes\carrito.png");
+            Producto p7  = new Producto(10007, "Cerealitas",         300,    77,  @"C:\Users\Bitter\Desktop\1erParcial.Villegas.Alvaro\Comercio\Resources\Imagenes\cerealitas.png");
+            Producto p8  = new Producto(10008, "Cobija",             5000,   88,  @"C:\Users\Bitter\Desktop\1erParcial.Villegas.Alvaro\Comercio\Resources\Imagenes\cobija.png");
+            Producto p9  = new Producto(10009, "DuffBeer",           100,    99,  @"C:\Users\Bitter\Desktop\1erParcial.Villegas.Alvaro\Comercio\Resources\Imagenes\duffbeer.png");
+            Producto p10 = new Producto(10010, "KramerArt",          500000, 1,   @"C:\Users\Bitter\Desktop\1erParcial.Villegas.Alvaro\Comercio\Resources\Imagenes\kramer.png");
+            Producto p11 = new Producto(10011, "MAGA Hat",           10,     100, @"C:\Users\Bitter\Desktop\1erParcial.Villegas.Alvaro\Comercio\Resources\Imagenes\maga.png");
+            Producto p12 = new Producto(10012, "Leche",              200,    101, @"C:\Users\Bitter\Desktop\1erParcial.Villegas.Alvaro\Comercio\Resources\Imagenes\milk.png");
+            Producto p13 = new Producto(10013, "Perro",              50000,  5,   @"C:\Users\Bitter\Desktop\1erParcial.Villegas.Alvaro\Comercio\Resources\Imagenes\perrito.png");
+            Producto p14 = new Producto(10014, "Pizza",              600,    123, @"C:\Users\Bitter\Desktop\1erParcial.Villegas.Alvaro\Comercio\Resources\Imagenes\pizza.png");
+            Producto p15 = new Producto(10015, "RTX2080",            60000,  5,   @"C:\Users\Bitter\Desktop\1erParcial.Villegas.Alvaro\Comercio\Resources\Imagenes\rtx2080.png");
+            Producto p16 = new Producto(10016, "Snickers",           200,    321, @"C:\Users\Bitter\Desktop\1erParcial.Villegas.Alvaro\Comercio\Resources\Imagenes\snickers.png");
+            Producto p17 = new Producto(10017, "TimeMachine",        1000,   1,   @"C:\Users\Bitter\Desktop\1erParcial.Villegas.Alvaro\Comercio\Resources\Imagenes\timemachine.png");
+            Producto p18 = new Producto(10018, "WindowsVista",       0,      999, @"C:\Users\Bitter\Desktop\1erParcial.Villegas.Alvaro\Comercio\Resources\Imagenes\windowsvista.png");
+            Producto p19 = new Producto(10019, "Zucaritas",          600,    99,  @"C:\Users\Bitter\Desktop\1erParcial.Villegas.Alvaro\Comercio\Resources\Imagenes\zucaritas.png");
 
             Establecimiento.AgregarProducto(p1);
             Establecimiento.AgregarProducto(p2);
@@ -71,26 +71,26 @@ namespace Entidades
 
         public static void HardCodeCompras()
         {
-            Compra c1 = new Compra(Establecimiento.Empleados[0], Establecimiento.Clientes[0], Establecimiento.Productos, 12, 12, 12, DateTime.Now.ToString(), 1231);
-            Compra c2 = new Compra(Establecimiento.Empleados[0], Establecimiento.Clientes[0], Establecimiento.Productos, 12, 12, 12, DateTime.Now.ToString(), 1232);
-            Compra c3 = new Compra(Establecimiento.Empleados[0], Establecimiento.Clientes[0], Establecimiento.Productos, 12, 12, 12, DateTime.Now.ToString(), 1233);
-            Compra c4 = new Compra(Establecimiento.Empleados[0], Establecimiento.Clientes[0], Establecimiento.Productos, 12, 12, 12, DateTime.Now.ToString(), 1234);
-            Compra c5 = new Compra(Establecimiento.Empleados[0], Establecimiento.Clientes[0], Establecimiento.Productos, 12, 12, 12, DateTime.Now.ToString(), 1235);
-            Compra c6 = new Compra(Establecimiento.Empleados[0], Establecimiento.Clientes[0], Establecimiento.Productos, 12, 12, 12, DateTime.Now.ToString(), 1236);
-            Compra c7 = new Compra(Establecimiento.Empleados[0], Establecimiento.Clientes[0], Establecimiento.Productos, 12, 12, 12, DateTime.Now.ToString(), 1237);
-            Compra c8 = new Compra(Establecimiento.Empleados[0], Establecimiento.Clientes[0], Establecimiento.Productos, 12, 12, 12, DateTime.Now.ToString(), 1238);
-            Compra c9 = new Compra(Establecimiento.Empleados[0], Establecimiento.Clientes[0], Establecimiento.Productos, 12, 12, 12, DateTime.Now.ToString(), 1239);
-            Compra c10 = new Compra(Establecimiento.Empleados[0], Establecimiento.Clientes[0], Establecimiento.Productos, 12, 12, 12, DateTime.Now.ToString(), 1240);
-            Compra c11 = new Compra(Establecimiento.Empleados[0], Establecimiento.Clientes[0], Establecimiento.Productos, 12, 12, 12, DateTime.Now.ToString(), 1241);
-            Compra c12 = new Compra(Establecimiento.Empleados[0], Establecimiento.Clientes[0], Establecimiento.Productos, 12, 12, 12, DateTime.Now.ToString(), 1242);
-            Compra c13 = new Compra(Establecimiento.Empleados[0], Establecimiento.Clientes[0], Establecimiento.Productos, 12, 12, 12, DateTime.Now.ToString(), 1243);
-            Compra c14 = new Compra(Establecimiento.Empleados[0], Establecimiento.Clientes[0], Establecimiento.Productos, 12, 12, 12, DateTime.Now.ToString(), 1244);
-            Compra c15 = new Compra(Establecimiento.Empleados[0], Establecimiento.Clientes[0], Establecimiento.Productos, 12, 12, 12, DateTime.Now.ToString(), 1245);
-            Compra c16 = new Compra(Establecimiento.Empleados[0], Establecimiento.Clientes[0], Establecimiento.Productos, 12, 12, 12, DateTime.Now.ToString(), 1246);
-            Compra c17 = new Compra(Establecimiento.Empleados[1], Establecimiento.Clientes[0], Establecimiento.Productos, 13, 13, 13, DateTime.Now.ToString(), 1247);
-            Compra c18 = new Compra(Establecimiento.Empleados[1], Establecimiento.Clientes[0], Establecimiento.Productos, 13, 13, 13, DateTime.Now.ToString(), 1248);
-            Compra c19 = new Compra(Establecimiento.Empleados[1], Establecimiento.Clientes[0], Establecimiento.Productos, 13, 13, 13, DateTime.Now.ToString(), 1249);
-            Compra c20 = new Compra(Establecimiento.Empleados[1], Establecimiento.Clientes[0], Establecimiento.Productos, 13, 13, 13, DateTime.Now.ToString(), 1250);
+            Compra c1 = new Compra(Establecimiento.Empleados[0], Establecimiento.Clientes[0], Establecimiento.Productos, 11111, 12, 11111, DateTime.Now.ToString(), 1231);
+            Compra c2 = new Compra(Establecimiento.Empleados[0], Establecimiento.Clientes[0], Establecimiento.Productos, 22222, 12, 22222, DateTime.Now.ToString(), 1232);
+            Compra c3 = new Compra(Establecimiento.Empleados[0], Establecimiento.Clientes[0], Establecimiento.Productos, 33333, 12, 33333, DateTime.Now.ToString(), 1233);
+            Compra c4 = new Compra(Establecimiento.Empleados[0], Establecimiento.Clientes[0], Establecimiento.Productos, 44444, 12, 44444, DateTime.Now.ToString(), 1234);
+            Compra c5 = new Compra(Establecimiento.Empleados[0], Establecimiento.Clientes[0], Establecimiento.Productos, 55555, 12, 55555, DateTime.Now.ToString(), 1235);
+            Compra c6 = new Compra(Establecimiento.Empleados[0], Establecimiento.Clientes[0], Establecimiento.Productos, 66666, 12, 66666, DateTime.Now.ToString(), 1236);
+            Compra c7 = new Compra(Establecimiento.Empleados[0], Establecimiento.Clientes[0], Establecimiento.Productos, 77777, 12, 77777, DateTime.Now.ToString(), 1237);
+            Compra c8 = new Compra(Establecimiento.Empleados[0], Establecimiento.Clientes[0], Establecimiento.Productos, 88888, 12, 88888, DateTime.Now.ToString(), 1238);
+            Compra c9 = new Compra(Establecimiento.Empleados[0], Establecimiento.Clientes[0], Establecimiento.Productos, 99999, 12, 99999, DateTime.Now.ToString(), 1239);
+            Compra c10 = new Compra(Establecimiento.Empleados[0], Establecimiento.Clientes[0], Establecimiento.Productos, 121212, 12, 121212, DateTime.Now.ToString(), 1240);
+            Compra c11 = new Compra(Establecimiento.Empleados[0], Establecimiento.Clientes[0], Establecimiento.Productos, 131313, 12, 131313, DateTime.Now.ToString(), 1241);
+            Compra c12 = new Compra(Establecimiento.Empleados[0], Establecimiento.Clientes[0], Establecimiento.Productos, 141414, 12, 141414, DateTime.Now.ToString(), 1242);
+            Compra c13 = new Compra(Establecimiento.Empleados[0], Establecimiento.Clientes[0], Establecimiento.Productos, 151515, 12, 151515, DateTime.Now.ToString(), 1243);
+            Compra c14 = new Compra(Establecimiento.Empleados[0], Establecimiento.Clientes[0], Establecimiento.Productos, 161616, 12, 161616, DateTime.Now.ToString(), 1244);
+            Compra c15 = new Compra(Establecimiento.Empleados[0], Establecimiento.Clientes[0], Establecimiento.Productos, 171717, 12, 171717, DateTime.Now.ToString(), 1245);
+            Compra c16 = new Compra(Establecimiento.Empleados[0], Establecimiento.Clientes[0], Establecimiento.Productos, 181818, 12, 181818, DateTime.Now.ToString(), 1246);
+            Compra c17 = new Compra(Establecimiento.Empleados[1], Establecimiento.Clientes[0], Establecimiento.Productos, 191919, 13, 191919, DateTime.Now.ToString(), 1247);
+            Compra c18 = new Compra(Establecimiento.Empleados[1], Establecimiento.Clientes[0], Establecimiento.Productos, 202020, 13, 202020, DateTime.Now.ToString(), 1248);
+            Compra c19 = new Compra(Establecimiento.Empleados[1], Establecimiento.Clientes[0], Establecimiento.Productos, 212121, 13, 212121, DateTime.Now.ToString(), 1249);
+            Compra c20 = new Compra(Establecimiento.Empleados[1], Establecimiento.Clientes[0], Establecimiento.Productos, 222222, 13, 222222, DateTime.Now.ToString(), 1250);
             Establecimiento.AgregarCompra(c1);
             Establecimiento.AgregarCompra(c2);
             Establecimiento.AgregarCompra(c3);
